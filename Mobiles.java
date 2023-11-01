@@ -1,3 +1,4 @@
+//AF0331405
 package anudip.MobilePurchaseSystem.entity;
 
 import java.util.List;
